@@ -23,12 +23,12 @@ git lfs install
 ```shell
 mkdir ~/workspae
 cd ~/workspace
+
 git clone https://github.com/bage79/nlp4kor.git
+pip install -r ~/workspace/nlp4kor/requirements.txt
+
 git clone https://github.com/bage79/nlp4kor-tensorflow.git
-cd ~/workspace/nlp4kor
-pip install -r requirements.txt
-cd ~/workspace/nlp4kor-tensorflow
-pip install -r requirements.txt
+pip install -r ~/workspace/nlp4kor-tensorflow/requirements.txt
 ```
 
 ### download datasets
