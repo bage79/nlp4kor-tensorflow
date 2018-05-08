@@ -31,7 +31,7 @@ git clone https://github.com/bage79/nlp4kor-tensorflow.git
 pip install -r ~/workspace/nlp4kor-tensorflow/requirements.txt
 ```
 
-### download datasets
+### download corpus
 ```shell
 cd ~/workspace
 git clone https://gitlab.com/bage79/nlp4kor-mnist.git
