@@ -60,7 +60,7 @@ MNIST_DAE_MODEL_DIR = os.path.join(MNIST_DIR, 'models', 'dae')
 #################################################
 # ko.wikipedia.org
 #################################################
-KO_WIKIPEDIA_ORG_DIR = os.path.join(HOME_DIR, 'workspace', 'nlp4kor_tensorflow-ko.wikipedia.org')
+KO_WIKIPEDIA_ORG_DIR = os.path.join(HOME_DIR, 'workspace', 'nlp4kor-ko.wikipedia.org/nlp4kor-tensorflow')
 
 KO_WIKIPEDIA_ORG_INFO_FILE = os.path.join(KO_WIKIPEDIA_ORG_DIR, 'data', 'ko.wikipedia.org.info.txt')
 KO_WIKIPEDIA_ORG_URLS_FILE = os.path.join(KO_WIKIPEDIA_ORG_DIR, 'data', 'ko.wikipedia.org.urls.txt')
@@ -77,7 +77,7 @@ KO_WIKIPEDIA_ORG_SPELLING_ERROR_CORRECTION_MODEL_DIR = os.path.join(KO_WIKIPEDIA
 #################################################
 # ko.wikipedia.org
 #################################################
-WIKIPEDIA_DIR = os.path.join(HOME_DIR, 'workspace', 'nlp4kor_tensorflow-ko.wikipedia.org')
+WIKIPEDIA_DIR = os.path.join(HOME_DIR, 'workspace', 'nlp4kor-ko.wikipedia.org/nlp4kor-tensorflow')
 
 # text (with string)
 WIKIPEDIA_DATA_DIR = os.path.join(WIKIPEDIA_DIR, 'data')
